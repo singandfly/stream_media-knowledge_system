@@ -9,3 +9,7 @@ GB28181协议：
 
 ONVIF协议：
 https://github.com/KoynovStas/onvif_srvd
+https://github.com/shengjuntu/onvif-ipcam IPC中的ovif协议实现
+
+IPC产品
+http://marcusjenkins.com/hacking-cheap-ebay-ip-camera/
